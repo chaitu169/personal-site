@@ -1,0 +1,11 @@
+.page{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    background-color: #F4F0F7 ;
+}
+
+app-header {
+    width: 100%;
+}

@@ -1,0 +1,38 @@
+.list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    padding: 1.75%;
+    font-family: "Fredoka", sans-serif;
+    background-color: white;
+}
+
+.list .chaitu{
+    cursor: pointer;
+}
+
+.list ul{
+    cursor: pointer;
+}
+
+.list2{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.element {
+    margin: 0 1% 0 1%;
+    font-weight: bold;
+    font-size: larger;
+}
+
+ul{
+    list-style: none;
+}
+
+.chaitu {
+    font-weight: bold;
+    font-size: larger;
+}
